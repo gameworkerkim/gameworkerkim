@@ -1,5 +1,7 @@
 ### Dennis Kim (김호광)
 
+This is the story of an assembly-generation programmer living in — and observing — the last era when networks still advanced humanity, before they finished parallelizing the human.
+
 Former Cyworld CEO · Investor · Web3 Investor · threat-intel & quant researcher · 9x Microsoft Azure MVP (2015–2023)
 
 Independent researcher and investor at the intersection of **cyber threat intelligence**, **AI-driven quantitative investing**, and **Web3**. 25+ years across Korean game security, social platforms (Cyworld), and blockchain/Web3. I turn breaking security incidents and market events into working artifacts — usually within 24–48 hours. Outside the terminal, I write essays on art, books, and culture.
