@@ -42,6 +42,8 @@ Former CEO of Cyworld (Korea’s pioneering social platform, 35M users). Investo
 
 ### 김호광 (Dennis Kim)
 
+네트워크가 인류의 진보에 기여하고, 네트워크에 의해 인간이 병렬화되지 않은 그 마지막 시대의, 어셈블리 세대 프로그래머가 세상을 관조하며 살아가는 이야기가 여기 있습니다.
+
 前 싸이월드 대표 · Investor · Web3 Investor · 위협 인텔·퀀트 리서처 · 9년 연속 Microsoft Azure MVP (2015–2023)
 
 **사이버 위협 인텔리전스**(CTI)와 **AI 기반 퀀트·Web3 투자**를 잇는 독립 연구자이자 투자자입니다. 게임 보안·소셜 플랫폼(싸이월드)·블록체인/Web3에서 25년 이상 일해 왔고, 보안 사고와 시장 이슈를 대개 24 ~ 48시간 안에 리포트·도구·모니터로 공개합니다. 기술·보안·투자 바깥의 세상은 [`essays`](https://github.com/gameworkerkim/essays)에 기록합니다.
@@ -61,7 +63,5 @@ Former CEO of Cyworld (Korea’s pioneering social platform, 35M users). Investo
 **에세이**
 - [`essays`](https://github.com/gameworkerkim/essays) — Art · Book · Culture. 기술·보안·투자를 다루는 사람이 그 바깥의 세상을 읽는 공간
 - 색인·아카이브 / 전문은 브런치
-
-네트워크가 인류의 진보에 기여하고, 네트워크에 의해 인간이 병렬화되지 않은 그 마지막 시대의, 어셈블리 세대 프로그래머가 세상을 관조하며 살아가는 이야기가 여기 있습니다.
 
 한국 대표 소셜 플랫폼 싸이월드(3,500만 회원) 前 대표 · Investor · Web3 Investor · 전자신문(Etnews) 칼럼니스트
