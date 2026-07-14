@@ -2,7 +2,7 @@
 
 This is the story of an assembly-generation programmer living in — and observing — the last era when networks still advanced humanity, before they finished parallelizing the human.
 
-Former Cyworld CEO (35M users) · Investor · Web3 Investor · threat-intel & quant researcher · Microsoft Azure MVP (2015–2023, 9 consecutive years))
+Former CEO of Cyworld (35M users) · Investor · Web3 Investor · threat-intel & quant researcher · Microsoft Azure MVP (2015–2023, 9 consecutive years)
 
 Independent researcher, builder, and investor at the intersection of cyber threat intelligence, AI-driven quantitative investing, and Web3. Over 28+ years across game security, Cyworld, and blockchain, I’ve focused on turning breaking security incidents and market events into practical open-source research, tools, and intelligence—often within 24–48 hours. Beyond the terminal, I write essays on art, literature, and culture, exploring the questions technology alone cannot answer.
 
