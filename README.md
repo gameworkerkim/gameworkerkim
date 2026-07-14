@@ -1,12 +1,12 @@
 ### Dennis Kim (김호광)
 
-This is the story of an assembly-generation programmer living in — and observing — the last era when networks still advanced humanity, before they finished parallelizing the human.
+This is the story of an assembly-generation programmer living in—and observing—the last era when networks still advanced humanity, before they finished parallelizing the human.
 
-Former CEO of Cyworld (35M users) · Investor · Web3 Investor · threat-intel & quant researcher · Microsoft Azure MVP (2015–2023, 9 consecutive years)
+Former CEO of Cyworld (35M users) · Investor · Web3 Investor · Cyber Threat Intelligence & Quantitative Researcher · Microsoft Azure MVP (2015–2023, 9 consecutive years)
 
 Independent researcher, builder, and investor at the intersection of cyber threat intelligence, AI-driven quantitative investing, and Web3.
 
-Over 28+ years across game security, Cyworld, and blockchain, I've focused on turning breaking security incidents and market events into open-source research, software, and threat intelligence—often within 24–48 hours.
+Over 28 years of experience spanning game security, social platforms (Cyworld), and blockchain, I transform breaking security incidents and market events into open-source research, software, and threat intelligence—often within 24–48 hours.
 
 Beyond the terminal, I write essays on art, literature, and culture, exploring the questions technology alone cannot answer.
 
@@ -50,7 +50,11 @@ Former CEO of Cyworld (Korea’s pioneering social platform, 35M users). Investo
 
 前 싸이월드 대표 · Investor · Web3 Investor · 위협 인텔·퀀트 리서처 · 9년 연속 Microsoft Azure MVP (2015–2023)
 
-**사이버 위협 인텔리전스(CTI)**와 **AI 기반 퀀트 투자**, Web3의 교차점에서 연구하고 투자하는 독립 연구자입니다. 게임 보안, 소셜 플랫폼(싸이월드), 블록체인 분야에서 28년 이상 활동하며, 보안 사고와 시장 이슈를 오픈소스 리포트·도구·인텔리전스로 구현해 세상에 오픈소스로 공개합니다. 대부분의 결과물은 24~48시간 안에 완성됩니다. 기술·보안·투자 너머의 세계를 읽고 기록하는 일은  [`essays`](https://github.com/gameworkerkim/essays)⁠￼에서 이어가고 있습니다.
+**사이버 위협 인텔리전스(CTI)**와 **AI 기반 퀀트 투자**, **Web3**의 교차점에서 연구하고 투자하는 독립 연구자입니다.
+
+게임 보안, 소셜 플랫폼(싸이월드), 블록체인 분야에서 **28년 이상** 활동하며, 보안 사고와 시장 이슈를 **오픈소스 리포트, 소프트웨어, 위협 인텔리전스**로 구현해 공개합니다. 대부분의 결과물은 사건 발생 후 **24~48시간 안에** 완성됩니다.
+
+기술·보안·투자 너머의 세계를 읽고 기록하는 일은 [`essays`](https://github.com/gameworkerkim/essays)에서 이어가고 있습니다.
 
 **시작점:** [vibe-investing](https://github.com/gameworkerkim/vibe-investing) · [cassandra-ai](https://github.com/gameworkerkim/cassandra-ai) · [CTI 아카이브](https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT) · [essays](https://github.com/gameworkerkim/essays)
 
